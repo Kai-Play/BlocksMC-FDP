@@ -127,7 +127,7 @@
       "values": {}
     },
     "AntiVoid": {
-      "state": false,
+      "state": true,
       "keybind": 0,
       "array": true,
       "autodisable": "NONE",
@@ -1005,7 +1005,7 @@
       "values": {}
     },
     "NameProtect": {
-      "state": true,
+      "state": false,
       "keybind": 0,
       "array": true,
       "autodisable": "NONE",
@@ -1084,7 +1084,7 @@
       }
     },
     "NoSlow": {
-      "state": false,
+      "state": true,
       "keybind": 0,
       "array": true,
       "autodisable": "NONE",
@@ -1246,7 +1246,7 @@
       "array": true,
       "autodisable": "NONE",
       "values": {
-        "PlaceableDelay": "Normal",
+        "PlaceableDelay": "Smart",
         "MaxDelay": 0,
         "MinDelay": 0,
         "AutoBlock": "Switch",
@@ -1254,7 +1254,7 @@
         "Swing": "Normal",
         "Search": true,
         "Down": true,
-        "PlaceTiming": "Post",
+        "PlaceTiming": "Pre",
         "Eagle": "OFF",
         "BlocksToEagle": 0,
         "ExpandLength": 1,
@@ -1272,7 +1272,7 @@
         "Timer": 1.0,
         "MotionSpeedSet": true,
         "MotionSpeed": 0.05,
-        "SpeedModifier": 0.99,
+        "SpeedModifier": 0.65,
         "TowerMode": "Jump",
         "StopTowerWhenBlockAbove": true,
         "TowerActivation": "PressSpace",

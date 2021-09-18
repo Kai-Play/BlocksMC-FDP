@@ -6,4 +6,4 @@
 
 ## Add Config
 1. Download `mcsoSense-BlocksMC-FDP.json` at [release](http://https://github.com/mcsoSense/BlocksMC-FDP/release)
-2. Drag `mcsoSense-BlocksMC-FDP-*.json` to `.minecraft/FDPClient-1.8/configs`
+2. Drag `mcsoSense-BlocksMC-FDP*.json` to `.minecraft/FDPClient-1.8/configs`
