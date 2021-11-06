@@ -10,4 +10,4 @@
 
 ## Load Config
 
-Enter `.load mcsoSense-BlocksMC-FDP` in the chat box
+Enter `.load mcsoSense-BlocksMC-FDP` in the chat
