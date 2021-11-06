@@ -1,13 +1,35 @@
 # BlocksMC-FDP
 
-## Install Mod
-1. Download FDPClient at [GetFDP.Today](https://getfdp.today/)
-2. Drag `FDPClient*.jar` to `.minecraft/mods`
+Click [HERE](https://github.com/mcsoSense/BlocksMC-FDP/releases) to hacking
 
-## Add Config
-1. Download `mcsoSense-BlocksMC-FDP.json` at [release](https://github.com/mcsoSense/BlocksMC-FDP/release)
-2. Drag `mcsoSense-BlocksMC-FDP.json` to `.minecraft/FDPClient-1.8/configs`
+## 20210827
 
-## Load Config
+![2021-08-27_10.50.37.png](img/2021-08-27_10.50.37.png)
 
-Enter `.load mcsoSense-BlocksMC-FDP` in the chat
+![2021-08-27_10.39.22.png](img/2021-08-27_10.39.22.png)
+
+![2021-08-27_10.33.33.png](img/2021-08-27_10.33.33.png)
+
+![2021-08-27_10.27.46.png](img/2021-08-27_10.27.46.png)
+
+## 20210826
+
+![2021-08-26_16.27.53.png](img/2021-08-26_16.27.53.png)
+
+![2021-08-26_16.13.36.png](img/2021-08-26_16.13.36.png)
+
+![2021-08-26_16.04.56.png](img/2021-08-26_16.04.56.png)
+
+![2021-08-26_15.55.02.png](img/2021-08-26_15.55.02.png)
+
+![2021-08-26_15.37.38.png](img/2021-08-26_15.37.38.png)
+
+![2021-08-26_15.28.59.png](img/2021-08-26_15.28.59.png)
+
+![2021-08-26_15.10.41.png](img/2021-08-26_15.10.41.png)
+
+![2021-08-26_14.56.52.png](img/2021-08-26_14.56.52.png)
+
+![2021-08-26_14.52.02.png](img/2021-08-26_14.52.02.png)
+
+![2021-08-26_14.39.53.png](img/2021-08-26_14.39.53.png)
