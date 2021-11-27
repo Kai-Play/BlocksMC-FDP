@@ -8,7 +8,8 @@
 [![GitHub Star](https://img.shields.io/github/stars/mcsoSense/BlocksMC-FDP?style=flat-square)](https://github.com/SteamTools-Team/SteamTools/stargazers)
 [![GitHub Fork](https://img.shields.io/github/forks/mcsoSense/BlocksMC-FDP?style=flat-square)](https://github.com/SteamTools-Team/SteamTools/network/members)
 ![GitHub Repo size](https://img.shields.io/github/repo-size/mcsoSense/BlocksMC-FDP?style=flat-square&color=3cb371)
-![Minecraft](https://img.shields.io/badge/game-Minecraft-brightgreen?style=flat-square&color=FFB6C1)  
+![Minecraft](https://img.shields.io/badge/game-Minecraft-brightgreen?style=flat-square&color=FFB6C1)
+<!-- ![Discord](https://img.shields.io/discord/1.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=flat-square)](https://discord.gg/) -->
 
 ## Install Mod
 1. Download FDPClient at [GetFDP.Today](https://getfdp.today/)
