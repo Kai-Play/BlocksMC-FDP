@@ -2,6 +2,14 @@
 
 > FDPClient Config of BlocksMC
 
+![Release Download](https://img.shields.io/github/downloads/mcsoSense/BlocksMC-FDP/total?style=flat-square)
+[![Release Version](https://img.shields.io/github/v/release/mcsoSense/BlocksMC-FDP?style=flat-square)](https://github.com/SteamTools-Team/SteamTools/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/mcsoSense/BlocksMC-FDP?style=flat-square)](LICENSE)
+[![GitHub Star](https://img.shields.io/github/stars/mcsoSense/BlocksMC-FDP?style=flat-square)](https://github.com/SteamTools-Team/SteamTools/stargazers)
+[![GitHub Fork](https://img.shields.io/github/forks/mcsoSense/BlocksMC-FDP?style=flat-square)](https://github.com/SteamTools-Team/SteamTools/network/members)
+![GitHub Repo size](https://img.shields.io/github/repo-size/mcsoSense/BlocksMC-FDP?style=flat-square&color=3cb371)
+[![GitHub Repo Languages](https://img.shields.io/github/languages/top/mcsoSense/BlocksMC-FDP?style=flat-square)](https://github.com/SteamTools-Team/SteamTools/search?l=c%23)
+
 ## Install Mod
 1. Download FDPClient at [GetFDP.Today](https://getfdp.today/)
 2. Drag `FDPClient*.jar` to `.minecraft/mods`
