@@ -1,5 +1,7 @@
 # BlocksMC-FDP
 
+> FDPClient Config of BlocksMC
+
 ## Install Mod
 1. Download FDPClient at [GetFDP.Today](https://getfdp.today/)
 2. Drag `FDPClient*.jar` to `.minecraft/mods`
