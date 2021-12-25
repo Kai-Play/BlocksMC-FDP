@@ -22,3 +22,8 @@
 ## Load Config
 
 Enter `.load mcsoSense-BlocksMC-FDP` in the chat box
+
+## Mirrors
+
+- [GitLab](https://gitlab.com/mcsoSense/BlocksMC-FDP)
+- [Gitee](https://gitee.com/mcsoSense/BlocksMC-FDP)
